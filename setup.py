@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="instagram-oauth",
-    version="0.1",
+    version="0.1.1",
     description='Instagram API oauth authentication helper',
     long_description=open('README.md').read(),
     url='https://github.com/gpip/instagram-oauth',

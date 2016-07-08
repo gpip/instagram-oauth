@@ -1,3 +1,10 @@
+## Install
+
+```
+pip install instagram-oauth
+```
+
+
 ## Usage
 
 ```
